@@ -96,15 +96,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Appwrite team for providing an excellent Backend as a Service platform.
 - Shadcn UI for the beautiful and customizable UI components.
 - All contributors and supporters of this project.
-```
 
-Feel free to adjust any part of this README to better fit your project's specifics. You might want to add more detailed information about:
+## Showcase
 
-1. How to set up the Appwrite backend (collections, buckets, etc.)
-2. Any specific environment variables needed
-3. Deployment instructions
-4. Testing procedures
-5. More detailed contribution guidelines
-6. Screenshots or GIFs showcasing the app's features
+### Home
+![Home](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-home.png)
 
-Remember to keep your README up to date as your project evolves. A well-maintained README is crucial for both users and potential contributors to understand and engage with your project.
+### Create Post
+![Create Post](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-create-post.png)
+
+### Edit User Profile
+![Edit User Profile](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-edit-user-profile.png)
+
+### Explore
+![Explore](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-explore.png)
+
+### Follow
+![Follow](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-follow-user.png)
+
+### Home User
+![Home User](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-home-user.png)
+
+### People
+![People](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-people.png)
+
+### Signup
+![Signup](https://raw.githubusercontent.com/rhadiwib/iohub/main/public/assets/showcase/iohub-signup.png)
